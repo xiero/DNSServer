@@ -1,0 +1,12 @@
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.exe
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.deps.json
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.runtimeconfig.json
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.runtimeconfig.dev.json
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.dll
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNSServer_1.0.pdb
+C:\dev\Csharp\repos\DNSServer_1.0\bin\Debug\netcoreapp3.0\DNS.dll
+C:\dev\Csharp\repos\DNSServer_1.0\obj\Debug\netcoreapp3.0\DNSServer_1.0.AssemblyInfoInputs.cache
+C:\dev\Csharp\repos\DNSServer_1.0\obj\Debug\netcoreapp3.0\DNSServer_1.0.AssemblyInfo.cs
+C:\dev\Csharp\repos\DNSServer_1.0\obj\Debug\netcoreapp3.0\DNSServer_1.0.csproj.CopyComplete
+C:\dev\Csharp\repos\DNSServer_1.0\obj\Debug\netcoreapp3.0\DNSServer_1.0.dll
+C:\dev\Csharp\repos\DNSServer_1.0\obj\Debug\netcoreapp3.0\DNSServer_1.0.pdb

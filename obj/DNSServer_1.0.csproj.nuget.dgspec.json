@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\dev\\Csharp\\repos\\DNSServer_1.0\\DNSServer_1.0.csproj": {}
+  },
+  "projects": {
+    "C:\\dev\\Csharp\\repos\\DNSServer_1.0\\DNSServer_1.0.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\dev\\Csharp\\repos\\DNSServer_1.0\\DNSServer_1.0.csproj",
+        "projectName": "DNSServer_1.0",
+        "projectPath": "C:\\dev\\Csharp\\repos\\DNSServer_1.0\\DNSServer_1.0.csproj",
+        "packagesPath": "C:\\Users\\h_csa\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\Csharp\\repos\\DNSServer_1.0\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\h_csa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "DNS": {
+              "target": "Package",
+              "version": "[1.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

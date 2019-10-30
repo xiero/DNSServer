@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DNSServer_1.0/1.0.0": {
+        "dependencies": {
+          "DNS": "1.2.2"
+        },
+        "runtime": {
+          "DNSServer_1.0.dll": {}
+        }
+      },
+      "DNS/1.2.2": {
+        "runtime": {
+          "lib/net40/DNS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DNSServer_1.0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DNS/1.2.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JXdU65AFthZvOzBQidymAfpc6Wjy4QO+zdWShOl1b0J1X7iiEDBYyYsaE8iJISv1MsY+x+E9jsuIfjvrGsFC9Q==",
+      "path": "dns/1.2.2",
+      "hashPath": "dns.1.2.2.nupkg.sha512"
+    }
+  }
+}
